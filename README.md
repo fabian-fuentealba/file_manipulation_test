@@ -7,3 +7,11 @@ Este script fue desarrollado utilizando python y su modulo pyspark. Para poder e
 ```
 spark-submit spark_app.py
 ```
+
+## 2.- Ejecución test unitario
+
+Para ejecutar el test unitario debe ejecutarse el siguiente comando
+
+...
+python test_spark_app.py
+...
